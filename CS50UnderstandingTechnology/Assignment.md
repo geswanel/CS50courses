@@ -25,3 +25,25 @@
 7. IPv6 solving what problem?
 8. [What a network packet consist of?](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:routing-with-redundancy/a/ip-packets)
 
+
+### Multimedia
+1. How midi and MP3 files are different
+2. What is a key frame
+3. JPEG and GIF differences
+4. Why German flag weight less than French? (Compression technique)
+
+
+### Security
+- What is public/private key encryption.
+- How vpn works?
+- Hashing passwords on the website?
+
+
+### Web Development
+- Why html isn't a programming language
+- Action method of form
+- What is css selector.
+- HTTP status codes
+- Creating website using
+    - [Documentation](https://htmldog.com/guides/html/)
+    - [Webdev tool](https://replit.com/)
